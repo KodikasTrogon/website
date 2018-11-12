@@ -1,0 +1,41 @@
+[33mcommit 9863cb254fde6eb46ff076c8c33bd26a55c690fe[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: KodikosTrogon <renz.serrano.rnr@gmail.com>
+Date:   Mon Nov 12 13:47:54 2018 +0800
+
+    Add some HTML Structure
+
+[33mcommit 5699614a44e337b97c59e6b033c9d0a1183f9160[m
+Author: KodikosTrogon <renz.serrano.rnr@gmail.com>
+Date:   Mon Nov 12 13:42:05 2018 +0800
+
+    Add an h1 tag
+
+[33mcommit 3acf094f38e678761bacd60c64eb2beda8c7d463[m
+Author: KodikosTrogon <renz.serrano.rnr@gmail.com>
+Date:   Mon Nov 12 13:23:24 2018 +0800
+
+    Add baz
+
+[33mcommit 02543ebee000d76cf95f9f062d3f4861ad342ec9[m
+Author: KodikosTrogon <renz.serrano.rnr@gmail.com>
+Date:   Mon Nov 12 13:19:52 2018 +0800
+
+    Add content to index.html
+
+[33mcommit 5d1fb71ed5ac2b43262c01de798371b5640a27ce[m
+Author: KodikosTrogon <renz.serrano.rnr@gmail.com>
+Date:   Mon Nov 12 13:18:21 2018 +0800
+
+    bar
+
+[33mcommit 9c889b16bec3142cc014f53d99a4a5de33ebb8d2[m
+Author: KodikosTrogon <renz.serrano.rnr@gmail.com>
+Date:   Mon Nov 12 13:18:04 2018 +0800
+
+    foo
+
+[33mcommit 751872c6b126ae892ebaae8a34f1f2b80be68117[m
+Author: KodikosTrogon <renz.serrano.rnr@gmail.com>
+Date:   Mon Nov 12 13:17:03 2018 +0800
+
+    Initialize Repository
